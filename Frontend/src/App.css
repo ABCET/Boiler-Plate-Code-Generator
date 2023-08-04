@@ -1,0 +1,127 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5; /* Updated background color */
+}
+
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #ffffff; /* Updated background color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  width: 94vw;
+  height: 88vh;
+}
+
+header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #007bff;
+  color: #ffffff; /* Updated font color */
+  border-radius: 8px 8px 0 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #ffffff; /* Updated font color */
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+pre {
+  background-color: #f1f1f1;
+  padding: 10px;
+  white-space: pre-wrap;
+  font-size: 16px;
+  height: 400px;
+  overflow-y: auto;
+  width: 100%;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.left-box {
+  margin-top: 20px;
+  width: 30%;
+  /* Adjust the width as needed */
+  display: flex;
+  flex-direction: column;
+}
+
+.right-box {
+  width: 65%;
+  /* Adjust the width as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Adjusted styles for the button container */
+.button-container {
+  position: fixed;
+  bottom: 30px;
+  right: 38px;
+}
+
+/* Updated styles for the "Copy" button */
+.button-container button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #ffffff; /* Updated font color */
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  position: relative;
+}
+
+/* Updated styles for the "Copy" button on hover */
+.button-container button:hover {
+  background-color: #0056b3;
+}
