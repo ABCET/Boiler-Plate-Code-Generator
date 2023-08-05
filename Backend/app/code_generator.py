@@ -1,8 +1,11 @@
 # backend/app/code_generator.py
 import openai
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 # Set your OpenAI API key here
-openai.api_key = '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'
+openai.api_key = os.getenv("SECRET_KEY")
 
 
 def generate_code(selected_stack, selected_language):
