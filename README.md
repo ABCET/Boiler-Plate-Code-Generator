@@ -19,7 +19,7 @@ Boilerplate Code Generator is a user-friendly tool designed to assist developers
 
 2.[Fathima Muhammed Nizar](https://github.com/Fathima-Muhammed-Nizar)
 
-3.[Joanhanna](https://github.com/joanhanna)
+3.[Joan Hanna James](https://github.com/joanhanna)
 
 ## Team Name:FutureForge
 
