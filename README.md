@@ -15,13 +15,13 @@ Boilerplate Code Generator is a user-friendly tool designed to assist developers
 
 ## Team Members
 
-### Team Name:FutureForge
-
 1.[Abhishek S](https://github.com/ABCET) 
 
 2.[Fathima Muhammed Nizar](https://github.com/Fathima-Muhammed-Nizar)
 
 3.[Joanhanna](https://github.com/joanhanna)
+
+## Team Name:FutureForge
 
 ## Link to Video
 https://drive.google.com/file/d/1qeoCP_F2HjB9QuqSJ9fKVFVo0FryyxIw/view?usp=sharing
