@@ -2,7 +2,7 @@
 
 Boilerplate Code Generator is a user-friendly tool designed to assist developers and programmers in quickly generating code snippets for various programming tasks. It aims to streamline the coding process and reduce manual effort by offering a simple interface where users can select their preferred development stack, programming language, and other components to generate the desired code.
 
-## Key Features:
+### Key Features:
 1.Stack Selection: Users can choose from a range of predefined development stacks, such as Frontend Development, Backend Development, Mobile App Development, AI/ML, Database, and Data Visualization. Each stack corresponds to a set of related technologies and tools commonly used for specific types of projects.
 
 2.Language/Library Selection: Within each stack, users can further select their preferred programming language or library. The available options are tailored to the chosen stack, ensuring that only relevant choices are presented to the user.
@@ -12,6 +12,17 @@ Boilerplate Code Generator is a user-friendly tool designed to assist developers
 4.AI/ML Algorithm Selection: Within the AI/ML stack, users can choose from a variety of machine learning and artificial intelligence algorithms, such as Linear Regression, Logistic Regression, Random Forest, Neural Networks, and Support Vector Machines. This feature facilitates the rapid generation of machine learning code for various use cases.
 
 5.Code Output and Copy: Once the user has made their selections, the application generates the corresponding code snippet, tailored to their chosen options. The generated code is displayed in a user-friendly format within a scrollable output box. A "Copy" button is provided to allow users to easily copy the generated code to their clipboard and paste it into their projects.
+
+## Team Members
+
+1.[Abhishek S](https://github.com/ABCET) 
+
+2.[Fathima Muhammed Nizar](https://github.com/Fathima-Muhammed-Nizar)
+
+3.[Joanhanna](https://github.com/joanhanna)
+
+## Link to Video
+https://drive.google.com/file/d/1qeoCP_F2HjB9QuqSJ9fKVFVo0FryyxIw/view?usp=sharing
 
 ## How it Works ?
 
