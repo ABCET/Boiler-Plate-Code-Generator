@@ -1,3 +1,7 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 class Config:
     DEBUG = True
-    SECRET_KEY = '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'
+    SECRET_KEY = os.getenv("SECRET_KEY")

@@ -1,4 +1,3 @@
-# backend/app/views.py
 from flask import Blueprint, request, jsonify
 from .code_generator import generate_code
 
